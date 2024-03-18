@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Close</name>
+   <tag></tag>
+   <elementGuidId>ca5362df-6bbd-42f6-8883-b60a12acb252</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.StyledBox-sc-13pk1d4-0.elWPxM</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Travis, I understand the mental turmoil you are in. Just know that I am here if you need anything.'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>964f6162-8c84-4020-938d-3cf155a9779d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>bc55ca69-05b1-4df4-bcf2-c4e5717232c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>StyledBox-sc-13pk1d4-0 elWPxM</value>
+      <webElementGuid>034f9db9-70cc-44b4-9ab9-72fddcc1e2da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>c379cc0d-084c-47d3-a346-257aa70d55b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[1]/div[@class=&quot;StyledLayer-sc-rmtehz-0 eYfxkr&quot;]/div[@class=&quot;StyledLayer__StyledContainer-sc-rmtehz-2 cboAjh&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 jhKWhE&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 hiOlZF&quot;]/div[1]/div[@class=&quot;StyledBox-sc-13pk1d4-0 jWzKWL&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 elWPxM&quot;]</value>
+      <webElementGuid>0e0d99e7-72be-4783-a325-3473e1ff4adc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travis, I understand the mental turmoil you are in. Just know that I am here if you need anything.'])[1]/following::div[1]</value>
+      <webElementGuid>8bad9717-1456-4268-a097-b87e47d8b426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You'])[4]/following::div[3]</value>
+      <webElementGuid>377e3561-c69b-4100-ba81-addccafc2ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>1da971d7-698d-4a4f-8ef4-428085ad2ea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>4e17ddf3-5a82-42e2-9a3b-25625efd5b36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

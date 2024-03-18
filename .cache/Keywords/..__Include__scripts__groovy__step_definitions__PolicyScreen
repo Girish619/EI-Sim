@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "1B18BBA64FEFEA8498B8D2B2DBE475E1",
+  "keywordClasses": [
+    {
+      "name": "step_definitions.PolicyScreen",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mail1</name>
+   <tag></tag>
+   <elementGuidId>d51a3e40-a262-4180-a1d0-d3cf6bfd4f7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.StyledText-sc-1sadyjn-0.Afzvp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[contains(text(),'Welcome to HSS!')])[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'StyledText-sc-1sadyjn-0 Afzvp']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c61d7963-2299-4114-9976-a5a41cf30891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>StyledText-sc-1sadyjn-0 Afzvp</value>
+      <webElementGuid>151f9ecd-e89f-4597-a81b-4b18e2a71efa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hi Em, Welcome to HSS! We are excited to have you on board as the Executive Vice President of Sales. You will be leading a team of 6 people whose unique skillsets have helped …</value>
+      <webElementGuid>6296e2e6-ecce-4d39-97d2-7f6a11d36fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[contains(.,'%s')])[1]</value>
+      <webElementGuid>158ccecd-70b9-486e-aa13-b857d4db4c11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='emailListItem_0']/div[3]/div[2]/div/div[3]/span</value>
+      <webElementGuid>12505630-4e1b-48bf-8e2c-e0b660885dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::span[1]</value>
+      <webElementGuid>597741a2-bf46-4821-89b7-f5255ff953d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Just Now'])[1]/preceding::span[1]</value>
+      <webElementGuid>299feb2d-3b8b-410c-be53-3a2168d6b46d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Message'])[1]/preceding::span[4]</value>
+      <webElementGuid>e893be9f-90dc-4376-af9a-ae90ca782d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hi Em, Welcome to HSS! We are excited to have you on board as the Executive Vice President of Sales. You will be leading a team of 6 people whose unique skillsets have helped …']/parent::*</value>
+      <webElementGuid>c6ae5b66-db89-4eda-b09e-6010462ca30c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div[3]/span</value>
+      <webElementGuid>0df83ff1-1dd8-4054-8fa8-75eab98adcec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hi Em, Welcome to HSS! We are excited to have you on board as the Executive Vice President of Sales. You will be leading a team of 6 people whose unique skillsets have helped …' or . = 'Hi Em, Welcome to HSS! We are excited to have you on board as the Executive Vice President of Sales. You will be leading a team of 6 people whose unique skillsets have helped …')]</value>
+      <webElementGuid>9cd7c59f-2490-4eba-a9aa-be812f99b4f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

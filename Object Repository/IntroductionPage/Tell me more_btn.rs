@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tell me more_btn</name>
+   <tag></tag>
+   <elementGuidId>96ec6465-0e28-49c4-b124-2149a96f189c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.StyledBox-sc-13pk1d4-0.dJNvaT</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@style,'box-shadow')]
+
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9040a96b-ebf2-4231-ad84-11f14645f2b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f2988818-1519-4254-8f7e-99094c2c4c2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>StyledBox-sc-13pk1d4-0 dJNvaT</value>
+      <webElementGuid>47f4aa38-316c-4cbc-96db-70541848ec76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tell me more!</value>
+      <webElementGuid>a35aa328-822a-41ab-82cc-a3054d72b2ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;StyledGrommet-sc-19lkkz7-0 kRcOeE&quot;]/main[@class=&quot;StyledBox-sc-13pk1d4-0 duwRFe&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 dXKnTw&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 kLpmSB&quot;]/div[@class=&quot;StyledGrid-sc-1wofa1l-0 frcLTf&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 eAqFMh&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 cUPXnU&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 ihfbaW&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 goebzP&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 dJNvaT&quot;]</value>
+      <webElementGuid>41dcbb98-1f91-4a22-9f74-0f86718c6c0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div/div/div[2]/div/div/div[4]/div</value>
+      <webElementGuid>32a652d0-042c-471f-9f0d-38b671f0c702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to'])[1]/following::div[5]</value>
+      <webElementGuid>9f4478fd-cb90-45dd-a35c-2364bada13fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign out'])[1]/following::div[10]</value>
+      <webElementGuid>7961dfa1-8025-4efa-b410-091225445616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[4]/div</value>
+      <webElementGuid>f2e78110-3401-434c-93a6-0922860e3a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tell me more!' or . = 'Tell me more!')]</value>
+      <webElementGuid>01a2702b-558c-4940-8f97-cdba5c3607ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

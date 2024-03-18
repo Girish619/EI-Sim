@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>bd9a5ba4-9baf-438e-9f17-dde9eb105fa4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.StyledBox-sc-13pk1d4-0.jyuplY > svg.StyledIcon-sc-ofa7kd-0.kLzWwD > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(@style,'box-shadow')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>7fa67ebb-0049-4f0f-9a3a-91a8dfc58205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>4b796dbe-d5bd-4b4d-9448-efde32b4a569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>#000</value>
+      <webElementGuid>6d5a601d-5dfc-4d73-aa3b-1312df8afc17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>0ba1d09e-ea56-44bc-a976-6140df5db4e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>m7 2 10 10L7 22</value>
+      <webElementGuid>d57e4325-17de-4949-bbe9-5bd390745b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;StyledGrommet-sc-19lkkz7-0 kRcOeE&quot;]/main[@class=&quot;StyledBox-sc-13pk1d4-0 duwRFe&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 dXKnTw&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 kLpmSB&quot;]/div[@class=&quot;StyledGrid-sc-1wofa1l-0 frcLTf&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 fyPJxd&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 hYhGJa&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 jyuplY&quot;]/svg[@class=&quot;StyledIcon-sc-ofa7kd-0 kLzWwD&quot;]/path[1]</value>
+      <webElementGuid>b46ee19a-4cac-42d0-97a2-131ef1c4b290</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Reply</name>
+   <tag></tag>
+   <elementGuidId>d8ae9d9e-29ff-4474-890f-c0806272fecd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/div/div[2]/div/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.StyledText-sc-1sadyjn-0.lfLwUP</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>162da648-2abc-4f15-a84b-11010609ab0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>StyledText-sc-1sadyjn-0 lfLwUP</value>
+      <webElementGuid>e6b40237-41e2-4749-933f-8a99ae7b8871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reply</value>
+      <webElementGuid>9b07fb07-7f3a-4c72-9000-5cbfc4e5fd2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ScrollableDiv&quot;)/div[@class=&quot;StyledBox-sc-13pk1d4-0 hRPfZf&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 iVnPXM&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 frhMkV&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 ihfbaW&quot;]/div[1]/div[@class=&quot;StyledBox-sc-13pk1d4-0 hvNOzz&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 RBDMu mailSummaryReply&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 befjQ replyButton&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 eGlGBS&quot;]/span[@class=&quot;StyledText-sc-1sadyjn-0 lfLwUP&quot;]</value>
+      <webElementGuid>a697ff84-8532-49a9-821f-c11a66fc9eb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ScrollableDiv']/div/div/div/div/div/div[2]/div/div/div[2]/span</value>
+      <webElementGuid>81eaf5b3-93b4-4677-ba8e-ee4bc74c6da9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Just Now'])[1]/following::span[2]</value>
+      <webElementGuid>5299b0bb-f90a-4507-a76f-f38be69dfc89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Emery'])[1]/following::span[2]</value>
+      <webElementGuid>f7522546-32cd-4e1d-b0cb-29062521cb3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reply All'])[1]/preceding::span[1]</value>
+      <webElementGuid>5080c0b8-3fba-4b52-9083-fd5c53e6126a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reply']/parent::*</value>
+      <webElementGuid>b5d91e13-8d48-42d7-ab25-5ef8f1e5c368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div/div[2]/span</value>
+      <webElementGuid>5c68711f-6e1f-4335-90dc-902e4e4a83ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Reply' or . = 'Reply')]</value>
+      <webElementGuid>ce9787aa-ad17-4911-9fb7-b04475114a8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

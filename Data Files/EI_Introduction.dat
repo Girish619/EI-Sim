@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>EI_Introduction</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>b25c9d38-30bb-4a78-9c10-f8b4c75e872e</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>0 Welcome+to a+simulation+where+you+will+navigate+difficult+emotions+in+the+workplace+and+lead+your+team+to+success. null null</data>
+   <data>1 Organization Heritage+Software+Solutions+is+a+California-based+multinational+company+that+provides+IT+and+business+consulting+services.+Having+won+the+%27The+Best+IT+Company%27+award+for+5+years+in+a+row%2C+it+became+the+most+coveted+company+in+the+market. Its+recent+acquisition+by+Farrington+has+increased+its+brand+visibility+and+growth+opportunities+tremendously.+However%2C+a+company+reorganization+led+to+the+exit+of+the+Executive+VP+of+Sales+and+things+seem+to+have+gone+downhill+ever+since. Uncertainty+about+the+future+has+resulted+in+complete+anarchy+within+the+team%2C+an+unspoken+tension+is+simmering+between+team+members+and+their+morale+seems+to+be+crumbling+every+day.+Team+discussions+have+often+turned+into+shouting+matches.</data>
+   <data>2 Introduction You+have+been+hired+as+the+new+Executive+Vice+President+of+Sales. Identifying+your+emotional+triggers+and+dealing+with+them+appropriately. Your+interactions+with+your+team+will+primarily+be+over+chats+and+emails.</data>
+   <data>null null null null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>slide_no</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>title</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>description</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>description_2</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>description_3</name>
+      <size>4</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

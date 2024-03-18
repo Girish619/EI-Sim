@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ira KnolowitzPotential Client Partnersh_f6d5d1</name>
+   <tag></tag>
+   <elementGuidId>f3a804b7-293d-499e-b75b-7116a2705d45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='emailListItem_1']/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.StyledBox-sc-13pk1d4-0.djvTbU</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d5b50a1-1f72-4671-9da2-f13b697afb88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f9ee17f9-c369-4a03-ad08-4a7a8d52eb59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>StyledBox-sc-13pk1d4-0 djvTbU</value>
+      <webElementGuid>ac2bfc6d-efca-441b-8c23-ac26e740d29d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ira KnolowitzPotential Client Partnership proposal - Hi Em, Hope this email finds you well. Thank you for your interest in partnering with Pinnacle Bank. Let me cut to the chase. Although our goals and vision align on many …Just Now</value>
+      <webElementGuid>bfc85c4a-7c0a-4ca8-aff8-708cc84e0b65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;emailListItem_1&quot;)/div[@class=&quot;StyledBox-sc-13pk1d4-0 djvTbU&quot;]</value>
+      <webElementGuid>129a4c07-d15b-41de-86a5-388e78c9e81b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='emailListItem_1']/div[3]</value>
+      <webElementGuid>779e4973-a771-4def-9aa4-9cc25e2df067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Just Now'])[1]/following::div[6]</value>
+      <webElementGuid>7df76ac9-89c0-4e01-9f53-22af559526b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::div[9]</value>
+      <webElementGuid>0c0578cb-5a4c-422c-b3cc-2e390ea9fa28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>e83555d9-cc4d-4c59-81e0-aded27158387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ira KnolowitzPotential Client Partnership proposal - Hi Em, Hope this email finds you well. Thank you for your interest in partnering with Pinnacle Bank. Let me cut to the chase. Although our goals and vision align on many …Just Now' or . = 'Ira KnolowitzPotential Client Partnership proposal - Hi Em, Hope this email finds you well. Thank you for your interest in partnering with Pinnacle Bank. Let me cut to the chase. Although our goals and vision align on many …Just Now')]</value>
+      <webElementGuid>26d69a14-fa67-4c04-9356-a69c2cadf2b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

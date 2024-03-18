@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "C4C568EED1555DD7FBCFAA22E45021D7",
+  "keywordClasses": [
+    {
+      "name": "Demo",
+      "keywordMethods": [
+        {
+          "name": "mail_conversationID",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

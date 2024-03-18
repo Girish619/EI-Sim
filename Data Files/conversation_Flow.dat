@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>conversation_Flow</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>ea7558c3-c20c-4ae0-9e45-24a5e7f92ef6</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>mail1 Welcome+to+HSS%21 ReadOnly null null null null null null null null</data>
+   <data>mail2 Good+morning ReplyMail I+agree+that+what+happened+should+not+have+happened. null null null null null null null</data>
+   <data>call1 null null null 4 null null I+can+imagine+how+disappointed+you+must+have+been. I+completely+empathize+with+you+but+Glen+had+nothing+to+do+with+this would+you+like+to+talk+about+why+you+think+Mike+took+credit+for I+now+see+where+you+are+coming+from.+You+felt+it+was+unfair+that+it</data>
+   <data>call2 null null null 1 null null been+noticing+you+the+past+couple null null null</data>
+   <data>mail3 Partnership+proposal ReplyMail We+regret+whatever+transpired+in+the+meeting+the+other+day. null null null null null null null</data>
+   <data>mail4 Resignation ReplyMail I+am+truly+sorry+that+I+have+not+been+there+enough. null null null null null null null</data>
+   <data>call3 null null null 1 null null I+understand+your+anger+but+even+if+it+does+not+look+like+it null null null</data>
+   <data>mail5 What+is+going+on+with+Travis%3F ReadOnly null null null null null null null null</data>
+   <data>call4 null null null 2 null null you+look+worried+and+your+erratic+work+hours+are+very We+are+there+for+you null null</data>
+   <data>call5 null null null 1 null null you+out+of+an+opportunity+like+this. null null null</data>
+   <data>mail6 Need+some+help. ReplyMail Could+you+maybe+ask+one+of+your+team-members+to+help+you+with null null null null null null null</data>
+   <data>call6 null null null 3 null null There+is+most+definitely+a+possibility+of+workload+increasing. I+understand+you+are+nervous.+Would+it+help+if+we I+understand+your+apprehensions+but null</data>
+   <data>mail7 Prosperity+Limited+Report ReplyMail I+genuinely+apologize+for+not+being+able+to+connect null null null null null null null</data>
+   <data>mail8 Am+very+concerned%21 ReplyMail going+to+be+a+challenging+time+for null null null null null null null</data>
+   <data>call7 null null null 2 null null have+this+discussion+when+you+h struggling+to+manage+her+current+workload null null</data>
+   <data>mail9 Heads+up%21 ReplyMail am+at+a+loss+for+words.+While+I+did+think+you+were null null null null null null null</data>
+   <data>mail10 Delay+in+project+timelines ReplyMail Please+note+that+I+am+treating+this+with+utmost+seriousness null null null null null null null</data>
+   <data>call8 null null null 1 null null Okay.+Tell+me+more.+Where+are+you+strug null null null</data>
+   <data>null null null null null null null null null null null</data>
+   <data>null null null null null null null null null null null</data>
+   <data>null null null null null null null null null null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>conversation_ID</name>
+      <size>21</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>mail_Subject</name>
+      <size>21</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>mail_Type</name>
+      <size>21</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>mail_Response</name>
+      <size>21</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>no.of_call_Resposes</name>
+      <size>21</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>mail_Content</name>
+      <size>21</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>6</columnIndex>
+      <name>newresponse_Content</name>
+      <size>21</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>7</columnIndex>
+      <name>call_Response1</name>
+      <size>21</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>8</columnIndex>
+      <name>call_Response2</name>
+      <size>21</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>9</columnIndex>
+      <name>call_Response3</name>
+      <size>21</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>10</columnIndex>
+      <name>call_Response4</name>
+      <size>21</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

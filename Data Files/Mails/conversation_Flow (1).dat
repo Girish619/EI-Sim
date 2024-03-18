@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>conversation_Flow (1)</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>ea7558c3-c20c-4ae0-9e45-24a5e7f92ef6</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>mail1 Welcome+to+HSS%21 null null null null null</data>
+   <data>mail2 Good+morning I+agree+that+what+happened+should+not+have+happened. null null null null</data>
+   <data>mail3 Partnership+proposal We+regret+whatever+transpired+in+the+meeting+the+other+day. null null null null</data>
+   <data>mail4 Resignation I+am+truly+sorry+that+I+have+not+been+there+enough. null null null null</data>
+   <data>mail5 What+is+going+on+with+Travis%3F null null null null null</data>
+   <data>mail6 Need+some+help. Could+you+maybe+ask+one+of+your+team-members+to+help+you+with null null null null</data>
+   <data>mail7 Prosperity+Limited+Report I+genuinely+apologize+for+not+being+able+to+connect null null null null</data>
+   <data>mail8 Am+very+concerned%21 going+to+be+a+challenging+time+for null null null null</data>
+   <data>mail9 Heads+up%21 am+at+a+loss+for+words.+While+I+did+think+you+were null null null null</data>
+   <data>mail10 Delay+in+project+timelines Please+note+that+I+am+treating+this+with+utmost+seriousness null null null null</data>
+   <data>null null null null null null null</data>
+   <data>null null null null null null null</data>
+   <data>null null null null null null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>conversation_ID</name>
+      <size>13</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>mail_Subject</name>
+      <size>13</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>mail_Response</name>
+      <size>13</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>Competency1</name>
+      <size>13</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>Competency2</name>
+      <size>13</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>Competency3</name>
+      <size>13</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>6</columnIndex>
+      <name>Competency4</name>
+      <size>13</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,73 @@
+{
+  "keywordFileContentHash": "A40A00F3BA01119C54681F4544A4C706",
+  "keywordClasses": [
+    {
+      "name": "customKeywords.Demo",
+      "keywordMethods": [
+        {
+          "name": "mail_conversationID",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "mailResponse",
+          "parameters": [
+            {
+              "name": "mail_ID",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "Actor_Labels",
+          "parameters": [
+            {
+              "name": "Key",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "getV",
+          "parameters": [
+            {
+              "name": "mail",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

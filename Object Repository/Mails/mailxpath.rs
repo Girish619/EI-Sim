@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mailxpath</name>
+   <tag></tag>
+   <elementGuidId>81731636-75a7-47a4-99e7-98299f50789b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[contains(.,'%s')])[1]</value>
+      <webElementGuid>f4f35f30-8a16-4765-b1f9-2b420437b79f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>(//span[contains(.,'%s')])[1]</value>
+      <webElementGuid>c21b9717-56e6-44ec-b7bd-0e5b1f0a029d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

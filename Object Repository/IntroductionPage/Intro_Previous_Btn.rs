@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Intro_Previous_Btn</name>
+   <tag></tag>
+   <elementGuidId>dd4f44d4-087d-49a9-a07b-4fd6f0ebd229</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(@style,'box-shadow')])[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'prev-btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>prev-btn</value>
+      <webElementGuid>2742b703-ba8c-4db6-8890-8cec9415b1c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[name()='svg'][@id='prev-btn']</value>
+      <webElementGuid>010c4e90-6296-48cc-95e0-60d734235df1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Conversations</name>
+   <tag></tag>
+   <elementGuidId>7d294773-1ccc-4545-aff3-84d18a0ca46d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div/div/div[2]/div/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.StyledText-sc-1sadyjn-0.jnycVB</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1bb8cdec-6294-4ee2-85c5-300c8ad2bc72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>StyledText-sc-1sadyjn-0 jnycVB</value>
+      <webElementGuid>b73c1d60-c630-40f3-a648-a3c25116eb6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Conversations</value>
+      <webElementGuid>e1c21be2-02ba-4e22-a43c-bbefc8cdd113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;StyledGrommet-sc-19lkkz7-0 kRcOeE&quot;]/main[@class=&quot;StyledBox-sc-13pk1d4-0 duwRFe&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 vZMZQ&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 iehjgr&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 AcrYt&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 ccdyWE&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 hhGqqA&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 kgNlEx mails&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 euFrVe&quot;]/span[@class=&quot;StyledText-sc-1sadyjn-0 jnycVB&quot;]</value>
+      <webElementGuid>57ebc2ae-48f2-42bf-b904-6e9fc27fa608</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div/div[2]/div/div/div/div/span</value>
+      <webElementGuid>40b5e8f0-fee6-4d3b-bb9e-8293d9ab6c6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info'])[1]/following::span[2]</value>
+      <webElementGuid>d0c3f48e-1518-49e3-af70-b83736fc1172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaderboard'])[1]/following::span[4]</value>
+      <webElementGuid>dccab396-b498-4213-89b0-1f45eb0f2285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sent'])[1]/preceding::span[2]</value>
+      <webElementGuid>75f5108c-df67-4e19-aed1-7ab38fc53361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Glen and Michael'])[1]/preceding::span[3]</value>
+      <webElementGuid>d2bdde76-2cce-43fb-8786-65aeb5354f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Conversations']/parent::*</value>
+      <webElementGuid>3178eb54-9a17-4901-b3b8-1b822dc7650b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/span</value>
+      <webElementGuid>63f6a245-f692-475b-ace9-da11a1b12691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Conversations' or . = 'Conversations')]</value>
+      <webElementGuid>26575d4c-22f9-4c61-a847-1230471638f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

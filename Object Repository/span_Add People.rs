@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add People</name>
+   <tag></tag>
+   <elementGuidId>bd8e3eeb-77cb-4ec6-a427-c08e0a9d28cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.StyledText-sc-1sadyjn-0.dJqwSF</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ScrollableDiv']/div/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>91248bcd-d6ce-4a93-b17f-5460a3521303</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>StyledText-sc-1sadyjn-0 dJqwSF</value>
+      <webElementGuid>2840d30c-95a2-422b-9818-a02853af33e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add People</value>
+      <webElementGuid>78f3d57e-7553-4fb5-a779-62dfe2f11933</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ScrollableDiv&quot;)/div[@class=&quot;StyledBox-sc-13pk1d4-0 hRPfZf&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 iVnPXM&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 frhMkV&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 ihfbaW&quot;]/div[1]/div[@class=&quot;StyledBox-sc-13pk1d4-0 ihfbaW&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 fzYkbV&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 hYqIsI&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 fujdkU&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 hRPfZf addActor&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 gRELZF&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 jrYalu&quot;]/span[@class=&quot;StyledText-sc-1sadyjn-0 dJqwSF&quot;]</value>
+      <webElementGuid>37fa370b-febe-4f45-b100-ca0e21b565a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ScrollableDiv']/div/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div/span</value>
+      <webElementGuid>208c9056-8a30-4191-bd23-20e85924562d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travis Williams'])[2]/following::span[1]</value>
+      <webElementGuid>cb691975-3de9-4143-bf45-f99e8c2c8ab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add People'])[2]/preceding::span[2]</value>
+      <webElementGuid>17a37255-f38b-4cac-ac08-620b537c271e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add People']/parent::*</value>
+      <webElementGuid>25ff41f2-d976-4cb8-aa94-9e0423c3a16e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div/span</value>
+      <webElementGuid>5bd8fbe4-f27e-47b4-af34-65b305f09532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add People' or . = 'Add People')]</value>
+      <webElementGuid>d117b500-32b5-47c0-a93c-8fdc7370a1e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

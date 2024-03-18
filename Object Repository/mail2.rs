@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mail2</name>
+   <tag></tag>
+   <elementGuidId>3fcc2b4c-4bd6-4185-b532-fe3ddd62d18f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='emailListItem_0']/div[3]/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.StyledText-sc-1sadyjn-0.ejbgYK</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f2aee1ab-da7e-47ba-b9df-3172226df398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>StyledText-sc-1sadyjn-0 ejbgYK</value>
+      <webElementGuid>88fedc40-6847-437d-b320-02019b581af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Glen and Michael</value>
+      <webElementGuid>fe5a7ac8-bf16-4807-97cf-f00c395b1cee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;emailListItem_0&quot;)/div[@class=&quot;StyledBox-sc-13pk1d4-0 djvTbU&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 ixnheu&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 RBDMu&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 jxooJO&quot;]/span[@class=&quot;StyledText-sc-1sadyjn-0 ejbgYK&quot;]</value>
+      <webElementGuid>75784b91-f955-40a3-8478-af4e2393a2d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='emailListItem_0']/div[3]/div[2]/div/div/span</value>
+      <webElementGuid>2b68952e-cd87-47f4-bcbd-25804e665978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CEO'])[1]/following::span[1]</value>
+      <webElementGuid>ed1e034a-2c6a-41d0-81f8-a9ef000ed004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sharon Hall'])[1]/following::span[2]</value>
+      <webElementGuid>4d63f828-2bc2-4542-9ea4-159eb90adfc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::span[1]</value>
+      <webElementGuid>59825218-3cb2-44b5-a47f-0155cb18f0ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Just Now'])[1]/preceding::span[3]</value>
+      <webElementGuid>eb864005-8284-4ebc-a3c6-a0f87d60111d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Glen and Michael']/parent::*</value>
+      <webElementGuid>1c677e55-4a6d-40f5-8d74-a2867d20f7f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/span</value>
+      <webElementGuid>6359e6dc-5b44-4619-8779-7533ac9f93d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Glen and Michael' or . = ' Glen and Michael')]</value>
+      <webElementGuid>37700c37-edfa-46cc-acfc-42005bdd169a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

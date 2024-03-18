@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Close</name>
+   <tag></tag>
+   <elementGuidId>018ecee0-781a-4540-b594-ef852f69d9ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(),'Close')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.StyledText-sc-1sadyjn-0.hRrZQD</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a30b5dec-bcb3-4fe1-b194-fb5727971432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>StyledText-sc-1sadyjn-0 hRrZQD</value>
+      <webElementGuid>8375daf5-a1e5-4706-be30-76f49f6951e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>f9955240-3c7b-4b73-b70f-16480bdc3e5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[1]/div[@class=&quot;StyledLayer-sc-rmtehz-0 eYfxkr&quot;]/div[@class=&quot;StyledLayer__StyledContainer-sc-rmtehz-2 cboAjh&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 jhKWhE&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 hiOlZF&quot;]/div[1]/div[@class=&quot;StyledBox-sc-13pk1d4-0 jWzKWL&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 elWPxM&quot;]/span[@class=&quot;StyledText-sc-1sadyjn-0 hRrZQD&quot;]</value>
+      <webElementGuid>ce94a2ab-6ee1-49f5-a624-ba99638021b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am happy to see the progress we have made here today. It paves the way for a fresh start.'])[1]/following::span[1]</value>
+      <webElementGuid>35c9087b-b99a-4d1c-ad8f-8e2c06bcdfec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You'])[10]/following::span[2]</value>
+      <webElementGuid>7ef73409-c35d-4757-8fff-fa45ff1d9a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
+      <webElementGuid>8daf17ef-2633-46fe-9686-00e1b296332b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/span</value>
+      <webElementGuid>49a6bc12-dc87-4756-9c66-626f7c66d800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>b2095ba7-92e5-4248-aca5-5e4fd00bd556</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

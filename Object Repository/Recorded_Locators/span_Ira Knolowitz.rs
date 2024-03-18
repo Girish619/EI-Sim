@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ira Knolowitz</name>
+   <tag></tag>
+   <elementGuidId>7363f52f-7dfb-436f-9b59-18d23ef42c45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ei:actor_8_addToPeople']/div/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0b48f537-6bba-4789-a0a5-f8bd3fc02635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>StyledText-sc-1sadyjn-0 hKTpHI</value>
+      <webElementGuid>fea4885d-5893-48d7-a2d4-4e828805f2ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ira Knolowitz</value>
+      <webElementGuid>f083c8ac-4292-4ceb-a83e-ba6b0b2cd951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ei:actor_8_addToPeople&quot;)/div[@class=&quot;StyledBox-sc-13pk1d4-0 ihfbaW&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 efKkIt&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 cIoYbq&quot;]/span[@class=&quot;StyledText-sc-1sadyjn-0 hKTpHI&quot;]</value>
+      <webElementGuid>073fe649-5e06-455c-96b4-49b8efb7aca1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ei:actor_8_addToPeople']/div/div/div[2]/span</value>
+      <webElementGuid>37bf2b3f-312a-4367-9823-4c8813099580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[1]/following::span[1]</value>
+      <webElementGuid>83a163f6-e7ca-46cf-858b-6ccc07ffd564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Executive'])[3]/following::span[2]</value>
+      <webElementGuid>a50a14a0-c760-4871-9268-4d4186bea22f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potential Client'])[1]/preceding::span[1]</value>
+      <webElementGuid>0861d4d9-5ea1-4bd7-b876-08ac79128070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SharpSave Bank'])[1]/preceding::span[2]</value>
+      <webElementGuid>faff85c7-d4d1-41b3-a2ec-652cd85996ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ira']/parent::*</value>
+      <webElementGuid>33b2c91a-89fc-4c98-b625-e5f0449a2933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div[2]/div/div/div/div/div/div[2]/span</value>
+      <webElementGuid>23a83641-8d48-4dd0-b228-dfeaecd85a09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ira Knolowitz' or . = 'Ira Knolowitz')]</value>
+      <webElementGuid>b58d8e94-8f51-4955-b897-a470915b25ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_YouTyping</name>
+   <tag></tag>
+   <elementGuidId>02eea322-e029-4589-b095-eece0d74e968</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Thanks, Mike. I', &quot;'&quot;, 'll come to Glen now.')])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>269ab0d7-482f-42b0-8299-9adf24184788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>StyledBox-sc-13pk1d4-0 hEFwAe</value>
+      <webElementGuid>78e259da-84e9-4047-a356-6e6181248d09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>YouTyping...</value>
+      <webElementGuid>f4d48e2d-3eb1-4bc6-890e-175d881dbef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[1]/div[@class=&quot;StyledLayer-sc-rmtehz-0 eYfxkr&quot;]/div[@class=&quot;StyledLayer__StyledContainer-sc-rmtehz-2 cboAjh&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 jhKWhE&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 hiOlZF&quot;]/div[1]/div[@class=&quot;StyledBox-sc-13pk1d4-0 jWzKWL&quot;]/div[1]/div[@class=&quot;StyledBox-sc-13pk1d4-0 hqZOyh&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 hEFwAe&quot;]</value>
+      <webElementGuid>2574b8fa-eab3-4e83-be2a-790309460eaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Thanks, Mike. I', &quot;'&quot;, 'll come to Glen now.')])[1]/following::div[2]</value>
+      <webElementGuid>5683f014-4a8b-4c87-a007-b3e11973bc16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You'])[6]/following::div[4]</value>
+      <webElementGuid>051822f8-fe83-4994-81dc-627eb6f6f9ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div</value>
+      <webElementGuid>4743020c-8a3b-4343-b84c-0f171d1c54e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'YouTyping...' or . = 'YouTyping...')]</value>
+      <webElementGuid>0756990f-4a59-4dd3-947b-2b6aef8f01d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

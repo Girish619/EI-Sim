@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Delilah Gonzalez</name>
+   <tag></tag>
+   <elementGuidId>222f9ef8-e3c7-4396-b26b-1f162da3aa78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ei:actor_5_addToPeople']/div/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6809c71b-253e-426a-9959-a1f500cd86ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>StyledText-sc-1sadyjn-0 hKTpHI</value>
+      <webElementGuid>4c7e6e90-7740-494b-b5a9-196d8f254622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delilah Gonzalez</value>
+      <webElementGuid>f802f959-3f10-42e0-a08c-69a77f1c7bf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ei:actor_5_addToPeople&quot;)/div[@class=&quot;StyledBox-sc-13pk1d4-0 ihfbaW&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 efKkIt&quot;]/div[@class=&quot;StyledBox-sc-13pk1d4-0 cIoYbq&quot;]/span[@class=&quot;StyledText-sc-1sadyjn-0 hKTpHI&quot;]</value>
+      <webElementGuid>0324885e-7f7d-42bf-ac6f-cc7d768b5cf8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ei:actor_5_addToPeople']/div/div/div[2]/span</value>
+      <webElementGuid>9963370f-e37b-4e26-afae-7ce9ac087d08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Executive'])[1]/following::span[1]</value>
+      <webElementGuid>5e362d97-7a94-44b3-9cc5-9a2a51aa9ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Glen Smith'])[1]/following::span[2]</value>
+      <webElementGuid>7337e7b6-82c9-49f8-9ff7-31646feec908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Representative'])[1]/preceding::span[1]</value>
+      <webElementGuid>77b0ed2d-6ee4-4c75-bd98-2af8cceeee6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Michael John'])[1]/preceding::span[2]</value>
+      <webElementGuid>4b0c9abb-a115-4d4c-899d-607aeab95468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delilah']/parent::*</value>
+      <webElementGuid>1266a041-815d-4ef5-a717-8497bb3543dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div[2]/span</value>
+      <webElementGuid>2a5f6149-74a9-4c02-9500-aca907701733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Delilah Gonzalez' or . = 'Delilah Gonzalez')]</value>
+      <webElementGuid>c95ada30-8585-4aa7-9310-eb7a9a0e6d51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

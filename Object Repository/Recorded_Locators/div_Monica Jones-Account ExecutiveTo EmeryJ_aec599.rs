@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Monica Jones-Account ExecutiveTo EmeryJ_aec599</name>
+   <tag></tag>
+   <elementGuidId>0d608421-063d-4a62-845d-940cd0b0f246</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ScrollableDiv']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ScrollableDiv</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>63fee9d4-c0f0-403e-88ea-9410e3053f78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ScrollableDiv</value>
+      <webElementGuid>f53caa1c-ebc0-4a8c-b6d3-b0b0f55525c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monica Jones-Account ExecutiveTo :EmeryJust NowHi Em, I hope you are doing well.  I am not sure if email is the right medium to convey information of this sort. But you have been busy, and we have not had a chance to connect properly since I joined 2 months back. I just want to let you know that I am thinking of resigning from this post. I feel I am not a right fit for this company, or even the team for that matter. I do not feel a sense of belonging here. I hope we can connect sometime today to discuss this further. Regards, 
+Monica</value>
+      <webElementGuid>5b3256e7-66ef-41fa-b5c8-f540d4032044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ScrollableDiv&quot;)</value>
+      <webElementGuid>c760db05-01f0-4221-be6d-f5ee9382f3cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='ScrollableDiv']</value>
+      <webElementGuid>ba911615-70bb-4b8d-8ea9-8e3ad16a2df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>f2036659-a094-48a8-88f3-fad9cb723090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resignation'])[1]/following::div[1]</value>
+      <webElementGuid>103ff492-4111-47fb-b578-6af91fab6c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sent'])[1]/following::div[7]</value>
+      <webElementGuid>c41f3863-8b67-41aa-9926-6e6dc28cf261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>e1a27295-1320-4b96-adc1-e2220bf259b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'ScrollableDiv' and (text() = 'Monica Jones-Account ExecutiveTo :EmeryJust NowHi Em, I hope you are doing well.  I am not sure if email is the right medium to convey information of this sort. But you have been busy, and we have not had a chance to connect properly since I joined 2 months back. I just want to let you know that I am thinking of resigning from this post. I feel I am not a right fit for this company, or even the team for that matter. I do not feel a sense of belonging here. I hope we can connect sometime today to discuss this further. Regards, 
+Monica' or . = 'Monica Jones-Account ExecutiveTo :EmeryJust NowHi Em, I hope you are doing well.  I am not sure if email is the right medium to convey information of this sort. But you have been busy, and we have not had a chance to connect properly since I joined 2 months back. I just want to let you know that I am thinking of resigning from this post. I feel I am not a right fit for this company, or even the team for that matter. I do not feel a sense of belonging here. I hope we can connect sometime today to discuss this further. Regards, 
+Monica')]</value>
+      <webElementGuid>c994621c-7f7a-4f1a-bc2f-102f47618a14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

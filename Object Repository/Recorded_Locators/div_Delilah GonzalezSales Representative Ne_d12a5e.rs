@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Delilah GonzalezSales Representative Ne_d12a5e</name>
+   <tag></tag>
+   <elementGuidId>7a0bfff4-7bec-4f7f-852d-b16a8cde4ed9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='emailListItem_0']/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.StyledBox-sc-13pk1d4-0.djvTbU</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f9a6a85b-3657-439b-a6c5-66f5f4b3390e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>936ff073-fb69-4220-8471-fa8c2d4ae368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>StyledBox-sc-13pk1d4-0 djvTbU</value>
+      <webElementGuid>e14d030a-df1b-4db4-9f67-8b813be9d0ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delilah GonzalezSales Representative Need some help. - Hello Em, I am in a bit of a fix and really need your help. I am not sure if you are aware, but a couple of clients have raised concerns about my approach towards them. They …Just Now</value>
+      <webElementGuid>b58fc76c-c5a2-4ecb-a7e6-631f94d2c29c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;emailListItem_0&quot;)/div[@class=&quot;StyledBox-sc-13pk1d4-0 djvTbU&quot;]</value>
+      <webElementGuid>c7f2d418-e3f9-434f-b920-98de311c661f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='emailListItem_0']/div[3]</value>
+      <webElementGuid>425ee3be-2866-4074-abec-561114bcff00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter by:'])[1]/following::div[12]</value>
+      <webElementGuid>e2e811aa-9917-468d-91f4-d9950885397f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sent'])[1]/following::div[14]</value>
+      <webElementGuid>e24eefb1-a8f2-4e6b-8f0e-dc8d83aee830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[3]</value>
+      <webElementGuid>36bb3604-504d-4a78-bfb7-e461bdde0557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Delilah GonzalezSales Representative Need some help. - Hello Em, I am in a bit of a fix and really need your help. I am not sure if you are aware, but a couple of clients have raised concerns about my approach towards them. They …Just Now' or . = 'Delilah GonzalezSales Representative Need some help. - Hello Em, I am in a bit of a fix and really need your help. I am not sure if you are aware, but a couple of clients have raised concerns about my approach towards them. They …Just Now')]</value>
+      <webElementGuid>342e3aa1-6d91-4e84-9fdd-7fc171c10ca6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
